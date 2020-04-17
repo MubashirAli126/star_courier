@@ -732,10 +732,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 .pricing h4 {
   font-size: 36px;
-  color: #0b326a;
-
-  /* color: #ff5821; */
-
+  color: #ff5821; 
   font-weight: 600;
   font-family: "Poppins", sans-serif;
   margin-bottom: 20px;
